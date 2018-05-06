@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Cambay:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Hind+Vadodara:300,400,500,600,700);
 
 
 
@@ -35,7 +36,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Cambay', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1.4rem;
 }
 .display-4 > .mbr-iconfont {
@@ -49,11 +50,11 @@ body {
   font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Cambay', sans-serif;
-  font-size: 1.4rem;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -607,14 +608,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Cambay', sans-serif;
-  font-size: 1.4rem;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -2382,6 +2383,29 @@ body {
 }
 .cid-qASOiW1WLr .navbar-collapse {
   flex-basis: auto;
+}
+.cid-qRjmKWCzEZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qRjmKWCzEZ .mbr-text,
+.cid-qRjmKWCzEZ blockquote {
+  color: #767676;
+}
+.cid-qRjmKWCzEZ .mbr-text B {
+  color: #000000;
+}
+.cid-qRjmKWCzEZ .mbr-text {
+  color: #000000;
+}
+.cid-qRjmNJdMwQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qRjmNJdMwQ .mbr-text {
+  color: #767676;
 }
 .cid-qBQtlJzxFy {
   padding-top: 0px;
